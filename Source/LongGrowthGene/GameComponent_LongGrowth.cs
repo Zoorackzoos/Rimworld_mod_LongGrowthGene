@@ -41,7 +41,7 @@ namespace LongGrowthGene
                 if (!errorLogged)
                 {
                     errorLogged = true;
-                    LGLog.Error("Daily refresh failed (logged once): " + e);
+                    LGLog.Error("ERROR: GameComponent_LongGrowth: Daily refresh failed (logged once): " + e);
                 }
             }
         }
