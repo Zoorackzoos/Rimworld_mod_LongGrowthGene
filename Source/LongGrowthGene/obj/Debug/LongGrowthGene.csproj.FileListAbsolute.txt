@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\2 code_stuff\0 personal\C#_code\rimworld\mods\created_by_me\LongGrowthGene\LongGrowthGene\Source\LongGrowthGene\obj\Debug\LongGrowthGene.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2 code_stuff\0 personal\C#_code\rimworld\mods\created_by_me\LongGrowthGene\LongGrowthGene\Source\LongGrowthGene\obj\Debug\LongGrowthGene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2 code_stuff\0 personal\C#_code\rimworld\mods\created_by_me\LongGrowthGene\LongGrowthGene\Source\LongGrowthGene\obj\Debug\LongGrowthGene.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2 code_stuff\0 personal\C#_code\rimworld\mods\created_by_me\LongGrowthGene\LongGrowthGene\1.6\Assemblies\LongGrowthGene.dll
+C:\Users\User\Desktop\2 code_stuff\0 personal\C#_code\rimworld\mods\created_by_me\LongGrowthGene\LongGrowthGene\Source\LongGrowthGene\obj\Debug\LongGrowthGene.dll

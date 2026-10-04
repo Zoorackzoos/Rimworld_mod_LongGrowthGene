@@ -11,7 +11,6 @@ namespace LongGrowthGene
     /// (the bug icon at the top of the screen) and look for the "Long Growth" category.
     /// Tools marked (click) let you click a pawn on the map.
     /// </summary>
-    [HasDebugOutput]
     public static class LongGrowthDebug
     {
         [DebugAction("Long Growth", "Give gene (click)", actionType = DebugActionType.ToolMapForPawns, allowedGameStates = AllowedGameStates.PlayingOnMap)]
