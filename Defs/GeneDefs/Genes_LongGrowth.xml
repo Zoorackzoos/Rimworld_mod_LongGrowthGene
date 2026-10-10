@@ -7,12 +7,12 @@
     <description>The carrier's body keeps developing long after it should have stopped. At first it is 80% as capable as a normal person in many respects, but every day it gains one more percentage point, with no ordinary limit in sight.\n\nAffects: consciousness, sight, hearing, moving, manipulation, talking, breathing, blood filtration and pumping, pain threshold, psychic sensitivity, mental break threshold, carrying capacity, immunity gain speed, injury healing, melee hit and dodge, shooting accuracy, aiming time, ranged cooldown, social impact, conversion power, and the rate hunger, sleep and recreation drain. It also slowly adds toxic, sharp and blunt resistance and widens the comfortable temperature range.\n\nThe current percentage is shown in each stat's explanation in the Stats tab.</description>
     <geneClass>LongGrowthGene.Gene_LongGrowth</geneClass>
     <iconPath>UI/Icons/Genes/Gene_LongGrowth</iconPath>
-    <iconColor>(0.95, 0.8, 0.3)</iconColor>
     <biostatCpx>6</biostatCpx>
     <biostatMet>0</biostatMet>
     <biostatArc>3</biostatArc>
     <selectionWeight>0</selectionWeight>
     <canGenerateInGeneSet>false</canGenerateInGeneSet>
+    <displayCategory>Archite</displayCategory>
     <displayOrderInCategory>9000</displayOrderInCategory>
   </GeneDef>
 

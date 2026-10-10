@@ -19,11 +19,11 @@ namespace LongGrowthGene
 
         // ---- Resistances (flat bonuses that grow from 0 at day 0 up to the max) ----
         public const float ResistanceMaxBonus = 0.60f;        // +0.60 armor rating sharp/blunt and toxic resistance (= 60%)
-        public const float ResistanceFullAtPercent = 500f;    // percent value at which resistances reach the max above
+        public const float ResistanceFullAtPercent = 200f;    // percent value at which resistances reach the max above
         public const float TemperatureMaxBonusC = 40f;        // widens comfortable temperature range by up to this many degrees C each way
 
         // ---- Debugging ----
         // true = extra [LongGrowthGene] lines in the dev log (Log.Message). Set false when you are done testing.
-        public static bool VerboseLogging = true;
+        public static bool VerboseLogging = false;
     }
 }
