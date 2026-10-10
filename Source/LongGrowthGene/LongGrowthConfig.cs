@@ -13,12 +13,12 @@ namespace LongGrowthGene
 
         // ---- Caps (in percent) per group ----
         public const float CapCapacities = 200f;     // consciousness, sight, hearing, moving, manipulation, ...
-        public const float CapStats = 200f;          // higher-is-better stats (carrying capacity, melee hit, ...)
-        public const float CapLowerIsBetter = 200f;  // mental break threshold, aiming time, ranged cooldown (value = x 100/percent)
-        public const float CapNeedRates = 200f;      // hunger / sleep / recreation drain rate (value = x 100/percent)
+        public const float CapStats = 500f;          // higher-is-better stats (carrying capacity, melee hit, ...)
+        public const float CapLowerIsBetter = 500f;  // mental break threshold, aiming time, ranged cooldown (value = x 100/percent)
+        public const float CapNeedRates = 500f;      // hunger / sleep / recreation drain rate (value = x 100/percent)
 
         // ---- Resistances (flat bonuses that grow from 0 at day 0 up to the max) ----
-        public const float ResistanceMaxBonus = 0.60f;        // +0.60 armor rating sharp/blunt and toxic resistance (= 60%)
+        public const float ResistanceMaxBonus = 0.80f;        // +0.60 armor rating sharp/blunt and toxic resistance (= 60%)
         public const float ResistanceFullAtPercent = 200f;    // percent value at which resistances reach the max above
         public const float TemperatureMaxBonusC = 40f;        // widens comfortable temperature range by up to this many degrees C each way
 

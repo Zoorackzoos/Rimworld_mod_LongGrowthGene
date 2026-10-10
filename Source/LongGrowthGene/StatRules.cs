@@ -64,7 +64,6 @@ namespace LongGrowthGene
             new StatRule("RangedCooldownFactor", RuleMode.MultiplyInverse, LongGrowthConfig.CapLowerIsBetter),
 
             // Need drain rates (lower is better)
-            new StatRule("HungerRateMultiplier", RuleMode.MultiplyInverse, LongGrowthConfig.CapNeedRates),
             new StatRule("RestFallRateFactor",   RuleMode.MultiplyInverse, LongGrowthConfig.CapNeedRates),
             new StatRule("JoyFallRateFactor",    RuleMode.MultiplyInverse, LongGrowthConfig.CapNeedRates),
 
